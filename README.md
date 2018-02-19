@@ -1,4 +1,10 @@
-# Innovaccer
+# InnovaccerAnalytics
+Name: Matcha Nikhil
+B.Tech 3rd year(Mathematics and Computing)
+IIT Guwahati
+
+
+Summary of the approach:
 Duplicate entry differ from original entry only in first name and last name, where as date of birth and gender remain same.
 So it is sufficient to make changes only in first names and last names.
 The name of the duplicate entry will vary from the original entry once a space occurs.
