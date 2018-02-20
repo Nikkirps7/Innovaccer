@@ -3,7 +3,7 @@ Name: Matcha Nikhil
 B.Tech 3rd year(Mathematics and Computing)
 IIT Guwahati
 
-First run the code.py and keep track of the location of the file new_names1.csv and then run the file1.py(the location of the file new_names1.csv is used here)
+First run the code.py and keep track of the location of the file new_names1.csv(the output of code.py) and then run the file1.py(the location of the file new_names1.csv is used here) to get the actual output (output.csv).
 
 
 Summary of the approach:
